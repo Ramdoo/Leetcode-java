@@ -25,7 +25,7 @@ public class P82RemoveDuplicatesFromSortedListIi_iterative{
     }
     //leetcode submit region begin(Prohibit modification and deletion)
 /**
- * Definition for singly-linked list.
+ *  Definition for singly-linked list.
  */
 public class ListNode {
     int val;
